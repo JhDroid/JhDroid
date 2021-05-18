@@ -5,7 +5,7 @@
 깃허브 프로필 방문을 환영합니다!   
 블로그도 놀러와주세요...
 * Email : lorzx77@gmail.com
-* Blog : https://github.com/JhDroid
+* Blog : https://jhdroid.tistory.com/
 
 </br>
 
