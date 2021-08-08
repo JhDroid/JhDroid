@@ -2,8 +2,7 @@
 
 ### 소개
 안녕하세요! 안드로이드 개발자 김준희입니다.   
-깃허브 프로필 방문을 환영합니다!   
-블로그도 놀러와주세요...
+
 * Email : lorzx77@gmail.com
 * Blog : https://jhdroid.tistory.com/
 
